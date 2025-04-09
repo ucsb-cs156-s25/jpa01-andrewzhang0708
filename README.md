@@ -2,7 +2,6 @@
 
 Deployed at: https://jpa01-andrewzhang0708.dokku-14.cs.ucsb.edu
 
-
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
